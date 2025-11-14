@@ -14,7 +14,7 @@
 
 [VirusTotal](https://www.virustotal.com/gui/file/639ae78bd358d28b8a188b8d26a8dc08425b5525be707b14116aa60aa16d1923?nocache=1) 
 
-![](https://image.linmoyu.top/202412141943536.webp)
+![Image](https://github.com/user-attachments/assets/d3177a90-1a52-4d9e-8c08-9004a9e92dba)
 
 见仁见智。
 
@@ -25,4 +25,4 @@
 
 **并且如果你有UAC，并且在开启网易云时候弹出询问窗口，请不要给予权限。**
 
-![](https://image.linmoyu.top/202412141943538.webp)
+![Image](https://github.com/user-attachments/assets/749fb23d-f571-4ae2-a89c-d90ec1c50435)
